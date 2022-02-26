@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-image: url(Assests/wall.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     color: bisque;
 }
 h1{
