@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(Assests/wall.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: bisque;
+}
+h1{
+    color: goldenrod;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    color: bisque;
+    margin-left: 280px;
+    border: 2px solid goldenrod;
+    padding: 10px;
+}
+a:hover{
+    border: 2px solid grey;
+    color: goldenrod;
+}
