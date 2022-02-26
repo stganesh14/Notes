@@ -23,7 +23,7 @@ a{
     font-size: larger;
     color: bisque;
     border: 2px solid goldenrod;
-    padding: 10px;
+    padding: 1rem;
 }
 a:hover{
     border: 2px solid grey;
